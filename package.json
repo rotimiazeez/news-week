@@ -1,9 +1,11 @@
 {
-  "name": "hello-world",
+  "name": "news-week",
   "version": "1.0.0",
   "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "bootstrap-icons": "^1.4.1"
+  },
   "devDependencies": {
     "hint": "^6.0.7",
     "stylelint": "^13.3.3",
@@ -16,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rotimiazeez/hello-world.git"
+    "url": "git+https://github.com/rotimiazeez/news-week.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rotimiazeez/hello-world/issues"
+    "url": "https://github.com/rotimiazeez/news-week/issues"
   },
-  "homepage": "https://github.com/rotimiazeez/hello-world#readme"
+  "homepage": "https://github.com/rotimiazeez/news-week#readme"
 }

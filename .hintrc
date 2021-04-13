@@ -1,3 +1,4 @@
+
 {
   "connector": {
     "name": "local",
@@ -16,3 +17,4 @@
     "no-inline-styles:error"
   ]
 }
+

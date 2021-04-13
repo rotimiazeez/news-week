@@ -31,7 +31,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash
-git clone https://github.com/rotimiazeez/hello-world.git
+git clone https://github.com/rotimiazeez/news-week.git
 
 ```
 
